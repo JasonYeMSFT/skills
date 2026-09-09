@@ -8,6 +8,9 @@
     "description": "Skills, agents, and plugins for AI coding agents working with Azure SDKs and Microsoft AI Foundry",
     "version": "1.0.0"
   },
+  "renames": {
+    "azure-skills": "azure"
+  },
   "plugins": [
     {
       "name": "deep-wiki",

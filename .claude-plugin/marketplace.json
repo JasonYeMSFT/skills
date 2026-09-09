@@ -9,6 +9,9 @@
     "version": "1.0.0",
     "pluginRoot": "./.github/plugins"
   },
+  "renames": {
+    "azure-skills": "azure"
+  },
   "plugins": [
     {
       "name": "deep-wiki",
